@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7C8567F1-6A8A-4189-B4EA-062FE86227F8}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Redis.ExampleApp.API/Program.cs">
+    <Files>
+      <File FileName="Redis.ExampleApp.API/Models/Product.cs" />
+      <File FileName="Redis.ExampleApp.API/Models/AppDbContext.cs" />
+      <File FileName="Redis.ExampleApp.API/Program.cs" Line="9" Column="1" />
+      <File FileName="Redis.ExampleApp.API/Models/Repositories/IProductRepository.cs" />
+      <File FileName="Redis.ExampleApp.API/Models/Repositories/ProductRepository.cs" />
+      <File FileName="Redis.ExampleApp.API/Controllers/ProductController.cs" />
+      <File FileName="Redis.ExampleApp.API/Controllers/ValuesController.cs" />
+      <File FileName="Redis.ExampleApp.API/appsettings.json" />
+      <File FileName="Redis.ExampleApp.API/Models/Repositories/ProductRepositoryWithCache.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Redis" expanded="True">
+            <Node name="Redis.ExampleApp.API" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Redis.ExampleApp.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

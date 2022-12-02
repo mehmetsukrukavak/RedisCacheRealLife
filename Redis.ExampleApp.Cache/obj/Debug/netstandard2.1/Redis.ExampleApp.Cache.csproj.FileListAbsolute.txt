@@ -1,0 +1,10 @@
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/bin/Debug/netstandard2.1/Redis.ExampleApp.Cache.deps.json
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/bin/Debug/netstandard2.1/Redis.ExampleApp.Cache.dll
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/bin/Debug/netstandard2.1/Redis.ExampleApp.Cache.pdb
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.csproj.AssemblyReference.cache
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.AssemblyInfoInputs.cache
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.AssemblyInfo.cs
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.csproj.CoreCompileInputs.cache
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.dll
+/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/obj/Debug/netstandard2.1/Redis.ExampleApp.Cache.pdb

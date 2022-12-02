@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2kmmBCW43FeU+GAOgbbmcZ1NLEW6eaTxJLaFWlHfFJcBDvskve+t+9q9BRjmMFDcjWps4UwE9K0kbIxzkV4Tg==",
+  "success": true,
+  "projectFilePath": "/Users/mehmetsukrukavak/Projects/Redis/Redis.ExampleApp.Cache/Redis.ExampleApp.Cache.csproj",
+  "expectedPackageFiles": [
+    "/Users/mehmetsukrukavak/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/pipelines.sockets.unofficial/2.2.2/pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/stackexchange.redis/2.6.80/stackexchange.redis.2.6.80.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.numerics.vectors/4.4.0/system.numerics.vectors.4.4.0.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.threading.channels/5.0.0/system.threading.channels.5.0.0.nupkg.sha512",
+    "/Users/mehmetsukrukavak/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
